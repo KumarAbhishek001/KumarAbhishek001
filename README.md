@@ -7,7 +7,7 @@
 <h3 align="center">A passionate Full Stack Developer from India. </h3>
 
 ### 🙋‍♂️ About Me
-- 👩‍🎓 I'm a Junior at **Lovely Professional University studying Computer Science**
+- 🧑🏻‍🎓 I'm a Junior at **Lovely Professional University studying Computer Science**
 
 - 🔭 I’m looking to contribute to **Open Source**
 
